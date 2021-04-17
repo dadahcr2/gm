@@ -321,13 +321,11 @@ Raging Winter | Wings, Winter Tires, Wheelie Boost
 
 Note!
 Tractor Wars
-If you would like to compete in tractor wars, make friends with Numpty:
-https://playhcr.com/invite?id=95Pyg5
+If you would like to compete in tractor wars, make friends with [Numpty](https://playhcr.com/invite?id=95Pyg5)
 Note: he may unfriend you if you use another vehicle in the daily, and you will need to friend him again if you would like to re-join.
-Results are reported on the tractor wars discord server: https://discord.gg/ND6avWY
+Results are reported on the tractor wars [discord server]( https://discord.gg/ND6avWY)
 
-Additional reference information
-http://www.hcr2.info
+[Additional reference information](http://www.hcr2.info)
 
 Anything worth adding? dadahcr2@gmail.com or Discord dada#1710
 
@@ -347,7 +345,7 @@ I think everyone needs to decide by themselves if buying and upgrading the vehic
 
 Deflorator contact and channel :
 Discord: Deflorator#3946
-Youtube: https://www.youtube.com/channel/UCbBmX5CU0SsFLlar2bxlQSQ
+[Youtube]( https://www.youtube.com/channel/UCbBmX5CU0SsFLlar2bxlQSQ)
 
 #### Monster Truck Description by gutterbutter
 **Introduction**
@@ -417,10 +415,10 @@ Rally Car has Secret Start
 
 If you want a better start, hold the throttle until the timer says 1 and then let go until the race starts giving you the Secret Start. At the start of the race, you want to hold the throttle. You hold it until the clock reaches 1 (because of reaction time you might want to let go at the end of 2). Once you let go you don’t want to press gas until the race starts (again reaction time so at the end of 1). The game won’t say perfect start because you let go directly behind the green area (if you did it right) but it is faster.
 
-Video explanation of the Secret Start
-https://www.youtube.com/watch?v=w_MVsT1gTd8
+[Video explanation of the Secret Start](https://www.youtube.com/watch?v=w_MVsT1gTd8)
 
 Reliable Rally Car setup for driving Adventures:
+
 Adventures  | Rally Car Setup
 -- | --
 Countryside | Winter Tires, Coin Boost, Wings (alternates: Fume Boost instead of Coin Boost)
@@ -446,9 +444,9 @@ Intense City | Winter Tires, Wings, Jump Shocks
 Raging Winter | Winter Tires, Wings, Jump Shocks (alternates: Coin Boost instead of Jump Shocks)
 
 Cole ST contact and channels:
-Discord: Cole|ST#1883
-YouTube: https://youtube.com/channel/UCec1TMctJXNwDGXqQyijtrA
-Spotify: https://open.spotify.com/show/36Rx2ewo4aiLraYRYxvrv4?si=8K33Zws5SvqyHIZfNhstCQ
+Discord: Cole\|ST#1883
+[YouTube]( https://youtube.com/channel/UCec1TMctJXNwDGXqQyijtrA)
+[Spotify]( https://open.spotify.com/show/36Rx2ewo4aiLraYRYxvrv4?si=8K33Zws5SvqyHIZfNhstCQ)
 
 ### Different Driving Techniques
 This section of the Game Manual will try to explain different driving techniques, how you can learn them and master them more easily.
