@@ -1,4 +1,4 @@
-<div align="center">[wiki](http://wiki.hcr2.info) | [faq](http://faq.hcr2.info) | <hcr2.info></div>
+<div align="center">[wiki](http://wiki.hcr2.info) | [faq](http://faq.hcr2.info) | <hcr2.info>
 
 ***
 
@@ -9,6 +9,7 @@
 ->**Unofficial Manual**<-
 ->First edition Mar 2021<-
 ->(created by a group of HCR2 enthusiasts)<-
+</div>
 
 ***
 
@@ -16,6 +17,9 @@
 
 0.	[Introduction](#introduction)
 [TOC2]
+
+1. TOC
+{:toc}
 
 ***
 
