@@ -1,4 +1,6 @@
-<div align="center">[wiki](http://wiki.hcr2.info) | [faq](http://faq.hcr2.info) | <hcr2.info>
+
+
+<center>[wiki](http://wiki.hcr2.info) | [faq](http://faq.hcr2.info) | <hcr2.info> </center>
 
 ***
 
@@ -9,7 +11,7 @@
 ->**Unofficial Manual**<-
 ->First edition Mar 2021<-
 ->(created by a group of HCR2 enthusiasts)<-
-</div>
+
 
 ***
 
