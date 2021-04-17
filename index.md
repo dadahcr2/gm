@@ -965,4 +965,5 @@ Youtube channels (sort by alphabet)
 - VOKOPE - https://www.youtube.com/channel/UC16xML3oyIZDeF3g8nnV6MA
 
 ***
-->[wiki](http://wiki.hcr2.info) | [faq](http://faq.hcr2.info) | hcr2.info<-
+->[wiki](http://wiki.hcr2.info) \| [faq](http://faq.hcr2.info) \| [](hcr2.info)<-
+{: style="color:gray; font-size: 80%; text-align: center;"}
