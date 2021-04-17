@@ -891,9 +891,9 @@ This list can help you track all tasks in the game for the better and more effic
 - [ ] Collect Daily Reward
 [ ]   Use Double Coins in Adventure Maps – collect as many as possible Coins
 - [ ] 3 Daily Tasks – complete it
-- [ ] Win 10 Cup racers – drive it, win 10 cup races
+- [ ]   Win 10 Cup racers – drive it, win 10 cup races
 - [ ] Additional Team Event Ticket for free – use it sometimes keep it for the next match if it isn’t going to make a difference for the current match and the next match is likely to start before the ticket resets
-- [ ] 4 Free + 1 ads Public Event Ticket for free – use it if the Public Event is available
+- [ ]     4 Free + 1 ads Public Event Ticket for free – use it if the Public Event is available
 - [ ] 4 Free + 1 ads Special Adventure Ticket for free – use it
 - [ ] 10 Free attempts at the Daily race - use it if you compete against others in the daily race. Can help you to improve your driving skills.
 
