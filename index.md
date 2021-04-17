@@ -504,23 +504,23 @@ Free 6 and 8 Hours Chest, by winning Daily Chest (10 Cups win tracks per day), b
 
 Note: you can create a team for 100 gems or change the team name for 50 gems. (Our advice is: Don’t spend Gems on this if you do not have VIP Subscription)
 
-![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/b/b8/Scrap.png)  
+![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/b/b8/Scrap.png)
 **Scrap** - Scrap is used exclusively to craft an upgrade for tuning parts. To craft a tuning part upgrade, you must already have at least one of that part in your inventory and unlock the vehicle that you want to upgrade the tuning parts. Scrap is created by taking unwanted tuning parts and converting them into scrap, which you can then spend on upgrading the parts you do want. Scrap can also be gained from Team and Public Event rewards.
 
-![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/7/76/Special_ticket.png)  
+![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/7/76/Special_ticket.png)
 **Special Ticket** - Special tickets can be used as an alternative entry method where a ticket is required. These are the only alternatives that allow you an entry to Team Events when your "Team Tickets" are all used up (assuming the ad-entry is used) and can be match deciding. You can also use them to retry 1 track in a single run, but keep in mind that the cost of a retry is doubled every time you use it, so the first retry costs 1 ticket, then 2, 4, 8...
 
 In Public Events you can use 1 special ticket to race once (not refill). The only way to obtain these tickets regularly is by having a team score of 1400+ or sometimes 300+ in a Team Event match. There are also some Public Events have them as rewards.
 
-![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/8/82/Team_ticket.png)  
+![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/8/82/Team_ticket.png)
 **Team Ticket** - Team Tickets can only be used to race in Team Events. Upon starting your match, you will have 2/2 team tickets. These are refilled once every 4 hours, starting the minute of your match. Your refill will delay if you don't use them in that time window.
 
 The only way to obtain these tickets is by waiting for the timer to run down.
 
-![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/1/1e/Ticket.png)  
+![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/1/1e/Ticket.png)
 **Event Ticket** - Event tickets are used to purchase an attempt in the Public Events. You are given 4 tickets (trials) per day and 1 free ticket (trial) for watching ads video. Additional tickets can be bought with gems at a cost of 4 tickets for 20 gems. In the Soccer Run Event, you only get 2 tickets, both after waiting for the tickets or purchasing them with 20 gems.
 
-![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/0/0e/Moon_ticket.png)  
+![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/0/0e/Moon_ticket.png)
 **Special Adventure Maps Ticket** - One ticket gives you one chance to drive as far as you can in Special adventure map. You start out with 4 tickets. These tickets get refilled every 24 hours, after they are all spent. They can also be manually refilled by spending 50 gems for 4 tickets. You can use a Special Ticket for additional runs or watch an ad, when available.
 
 ### How to collect effectively and use Resources
@@ -542,7 +542,7 @@ The question that many players will ask:
 
 The answer to all these questions is as follows.
 
-There are 9 ways to earn Gems. 6 different types of Chest in the game give you Gems, you can earn Gems by completing the monthly Trophy Road, by opening Daily Rewards and in Team Event by winning a minimum of 2,600 Points.
+**There are 9 ways to earn Gems. 6 different types of Chest in the game give you Gems, you can earn Gems by completing the monthly Trophy Road, by opening Daily Rewards and in Team Event by winning a minimum of 2,600 Points.**
 
 SOURCE | DESCRIPTION
 -- | --
@@ -563,12 +563,14 @@ To collect this number of Gems you need to fulfill these conditions to be able t
 - Per week you need to collect:
 	-  Daily Rewards (Day 3,4,5 & 6) = **40 Gems**
 	- Team Chest level 23 = **50 Gems** (if your Team do not reach level 23 you will earn fewer Gems than 50 pieces
-	- In Team Event by winning over 2.600 Points = **30 Gems** (in a month your team can join 14 matchmakings of a Team Event)
-- Per month you can earn **150 Gems** by completing Trophy Road
+	- In Team Event by winning over 2.600 Points = **30 Gems** (in a month your team can join 14 matchmakings of a Team Event)  
+- Per month you can earn **150 Gems** by completing Trophy Road  
+
 With a simple mathematical equation in a month, you can collect 1320 Gems
 
 	30×(3×1+2×1+1×2 +6×1) + (4×40+4×50+14×30) + 150 = 1320
 	30 days × (13 Gems) + (4 × Daily Rewards + 4 × Team Chest Road + 14 × Team Event) +150 Trophy Road =1320
+	{: style="text-align: center;"}
 
 **Additional Adventure Task Chest explanation**
 
@@ -583,7 +585,7 @@ COINS | GEMS | ITEMS
 For the hard map, (Forest Trials, Intense City and Raging Winter), the adventure awards differ as follows: 
 
 COINS | GEMS | ITEMS
--- | -- | --
+-- | -- | --  
 1000 coins for starting the adventure + 200 for every level reached. So a Level 1 chest will contain 1200 coins, Level 2: 1400 and so on... | 1 gem for starting + 1 gem every 5 Levels reached. So a Level 1 chest will contain 1 gem, Level 5: 2, Level 10: 3 and so on... | Levels 1-5: Minimum of 18 common and 2 rare parts. Levels 6+: Minimum of 29 common and 2 rare parts.
 
 **Gems collecting recap**
@@ -600,8 +602,7 @@ If your team is not strong enough to meet the requirements of the last two tips,
 
 **How to use Gems**
 
-A big mistake that players will make is to use Gems in the in-game Shop to buy Rare, Epic, or Legendary Chests (“normal” Chest or a specialized Chest or one of the vehicles).
-
+A big mistake that players will make is to use Gems in the in-game Shop to buy Rare, Epic, or Legendary Chests (“normal” Chest or a specialized Chest or one of the vehicles).  
 It is also inadvisable to spend 250 Gems for buying 5×Epic Parts or 500 Gems for buying 1×Legendary Part in a daily offer.
 
 But the biggest mistake is to buy Coins with the Gems. It is the worst way to spend Gems, it's the most inefficient thing to do in the game with Gems.
