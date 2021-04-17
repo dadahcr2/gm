@@ -1,4 +1,4 @@
-[wiki](http://wiki.hcr2.info) | [faq](http://faq.hcr2.info) | hcr2.info
+<div align="center">[wiki](http://wiki.hcr2.info) | [faq](http://faq.hcr2.info) | <hcr2.info></div>
 
 ***
 
