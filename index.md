@@ -568,9 +568,9 @@ To collect this number of Gems you need to fulfill these conditions to be able t
 
 With a simple mathematical equation in a month, you can collect 1320 Gems
 
-	30×(3×1+2×1+1×2 +6×1) + (4×40+4×50+14×30) + 150 = 1320
-	30 days × (13 Gems) + (4 × Daily Rewards + 4 × Team Chest Road + 14 × Team Event) +150 Trophy Road =1320
-	{: style="text-align: center;"}
+30×(3×1+2×1+1×2 +6×1) + (4×40+4×50+14×30) + 150 = 1320  
+30 days × (13 Gems) + (4 × Daily Rewards + 4 × Team Chest Road + 14 × Team Event) +150 Trophy Road =1320  
+{: style="text-align: center;"}
 
 **Additional Adventure Task Chest explanation**
 
@@ -582,8 +582,7 @@ COINS | GEMS | ITEMS
 -- | -- | --
 1000 coins for starting the adventure + 400 for every level reached. So a Level 1 chest will contain 1400 coins, Level 2: 1800 and so on... This has no maximum level cap. | 1 gem for starting + 1 gem every 4 Levels reached. So a Level 1 chest will contain 1 gem, Level 4: 2, Level 8: 3 and so on... This has a maximum level cap of 28, meaning you can get a maximum of 8 gems in every task. | Levels 1-6: Minimum of 18 common and 2 rare parts. Levels 7-12: Minimum of 29 common and 2 rare parts. Levels 13+: Minimum of 45 common and 6 rare parts.
 
-For the hard map, (Forest Trials, Intense City and Raging Winter), the adventure awards differ as follows: 
-
+For the hard map, (Forest Trials, Intense City and Raging Winter), the adventure awards differ as follows:       
 COINS | GEMS | ITEMS
 -- | -- | --  
 1000 coins for starting the adventure + 200 for every level reached. So a Level 1 chest will contain 1200 coins, Level 2: 1400 and so on... | 1 gem for starting + 1 gem every 5 Levels reached. So a Level 1 chest will contain 1 gem, Level 5: 2, Level 10: 3 and so on... | Levels 1-5: Minimum of 18 common and 2 rare parts. Levels 6+: Minimum of 29 common and 2 rare parts.
@@ -890,8 +889,8 @@ Every vehicle you buy, Fingersoft gives you free vehicle feature level upgrades 
 - Install Discord program. Go to Settings and left from Facebook icon you will see Discord icon, tap on it and install Discord on your smartphone, and you can download and install Discord App on your computer also. HCR2 has a vibrant Discord community that can help you and your game progress.
 - As soon as you reach the rank of Gold I the option to join a team becomes available, consider joining one of many HCR2 teams. Smart thing is to choose one of Top team who have low ranking teams, for beginners. You can easily search in official Finger Soft HCR2 Discord server in the #team-seeking-player ads from teams that need active players.
 Also, try and finish the monthly Trophy Road as soon as possible. By completing this in a very short time you can receive:  
-
-150 Gems   
+	
+	150 Gems   
 	86.000 Coins   
 	254 Common Parts   
 	78 Rare Parts   
@@ -918,33 +917,33 @@ Don't expect to be accepted into a team if you have a low GP (beginner) and you 
 
 ### Daily Checklist
 This list can help you track all tasks in the game for the better and more efficient playing of the game, building your Garge Power, and improve your driving skills.
-- [   ] **Every 3 hours**: Free FS upgrades – use them to upgrade your newly bought vehicles and Common and Rare parts. Free upgrades are limited and depending on the level of upgrades.
-- [ ] [  ]() **Every 4 hours**: 2 free Team Tickets – play Team Event
-- [ ] **Every 6 hours**: Free Ads Chest in the Shop – open it
-- [ ] **Every 8 hours**: Free Chest in the Shop – open it
+- [   ]  &nbsp; **Every 3 hours**: Free FS upgrades – use them to upgrade your newly bought vehicles and Common and Rare parts. Free upgrades are limited and depending on the level of upgrades.
+- [ ]  &nbsp; **Every 4 hours**: 2 free Team Tickets – play Team Event
+- [ ]  &nbsp; **Every 6 hours**: Free Ads Chest in the Shop – open it
+- [ ] &nbsp; **Every 8 hours**: Free Chest in the Shop – open it
 
 **Every 12 hours**
-- [ ] Free 6 Common Cup Chests – drive Cups and open Chests
-- [ ] 2 Free “Finish Now” Scrap – use it for any excess scrap
-- [ ] 3 Adventure Task Chests – drive it
+- [ ]  &nbsp; Free 6 Common Cup Chests – drive Cups and open Chests
+- [ ]  &nbsp; 2 Free “Finish Now” Scrap – use it for any excess scrap
+- [ ]  &nbsp; 3 Adventure Task Chests – drive it
 
 **Every 24 hours**
-- [ ] Collect Daily Reward  
-[ ]   Use Double Coins in Adventure Maps – collect as many as possible Coins
-- [ ] 3 Daily Tasks – complete it
-- [ ]   Win 10 Cup racers – drive it, win 10 cup races
-- [ ] Additional Team Event Ticket for free – use it sometimes keep it for the next match if it isn’t going to make a difference for the current match and the next match is likely to start before the ticket resets
-- [ ]     4 Free + 1 ads Public Event Ticket for free – use it if the Public Event is available
-- [ ] 4 Free + 1 ads Special Adventure Ticket for free – use it
-- [ ] 10 Free attempts at the Daily race - use it if you compete against others in the daily race. Can help you to improve your driving skills.
+- [ ]  &nbsp; Collect Daily Reward  
+- [ ]   &nbsp; Use Double Coins in Adventure Maps – collect as many as possible Coins
+- [ ]  &nbsp; 3 Daily Tasks – complete it
+- [ ]   &nbsp; Win 10 Cup racers – drive it, win 10 cup races
+- [ ]  &nbsp; Additional Team Event Ticket for free – use it sometimes keep it for the next match if it isn’t going to make a difference for the current match and the next match is likely to start before the ticket resets
+- [ ]   &nbsp;   4 Free + 1 ads Public Event Ticket for free – use it if the Public Event is available
+- [ ]  &nbsp; 4 Free + 1 ads Special Adventure Ticket for free – use it
+- [ ] &nbsp;  10 Free attempts at the Daily race - use it if you compete against others in the daily race. Can help you to improve your driving skills.
 
 **Weekly**
-- [ ] 10 Free attempts at the Weekly race – use it if you compete with others in the weekly race. Can help you to improve your driving skills.
-- [ ] Team Chest – open it
+- [ ]  &nbsp; 10 Free attempts at the Weekly race – use it if you compete with others in the weekly race. Can help you to improve your driving skills.
+- [ ]  &nbsp; Team Chest – open it
 
 **Always**
-- [ ] Have a Cup Chest timing down
-- [ ] Scrap excess parts
+- [ ]  &nbsp; Have a Cup Chest timing down
+- [ ]  &nbsp; Scrap excess parts
 
 ## Chapter 7 - Devices and Support
 In Chapter 7, we will try to help HCR2 players with decisions on what devices are better to play HCR2, on the smartphone, or on the tablet.
