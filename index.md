@@ -474,7 +474,8 @@ Raging Winter | Winter Tires, Wings, Jump Shocks (alternates: Coin Boost instead
 	[Spotify]( https://open.spotify.com/show/36Rx2ewo4aiLraYRYxvrv4?si=8K33Zws5SvqyHIZfNhstCQ)
 
 ### Different Driving Techniques
-This section of the Game Manual will try to explain different driving techniques, how you can learn them and master them more easily.  
+This section of the Game Manual will try to explain different driving techniques, how you can learn them and master them more easily. 
+
 In progress ………  
 It will be included in the upcoming edition of the Game Manual
 #### Daily Task – Neck Flip Task
@@ -482,14 +483,17 @@ The newest update for Hill Climb Racing 2 V1.43.0 introduces us to all-new daily
 This link will show you how to do Neck Flip with all vehicles in the game:
 [How to do a Neck Flip](https://youtu.be/ANe7YnW1T9w)
 [![](http://img.youtube.com/vi/ANe7YnW1T9w/0.jpg)](http://www.youtube.com/watch?v=ANe7YnW1T9w)
-
+{: style="text-align: center;"}
 ## Chapter 2 - In-game resources
 In Chapter 2, we will explain what the game resources are and try to describe how to manage the in-game resources. How to earn them, collect them, and how to use them most effectively in building your HCR2 Account. We excluded VIP Subscription in our explanations and base our data only from gathering resources within the game. (In this first edition it is based on earning, collecting, and using Gems. The Gems are the most valuable commodity in the game.)  
+
 NOTE 2×!  
 Aero’s Monitoring Spreadsheet  
 A very good tool for developing your HCR2 Account aka Bill Newton is Aero’s HCR2 Monitoring Spreadsheet. By using this tool, you can easily follow your in-game progress, make plans on how to spend Coins on vehicle features and tuning parts, and etc.  
+
 For downloading this spreadsheet use this Reddit [link!!](
 https://www.reddit.com/r/HillClimbRacing/comments/jqr5nk/new_spreadsheet_v1401_with_rotator/)
+{: style="text-align: center;"}
 ### Game Resources
 ![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/6/6d/Coin.png)  
 **Coins** - Coins are the primary currency in Hill Climb Racing 2. They are used for purchasing vehicles, vehicle upgrades, upgrading tuning parts, and unlocking new adventure maps (if you don't want to reach a certain adventure rank to open an adventure map).
