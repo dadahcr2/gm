@@ -413,7 +413,8 @@ Must haves |  Useful |  Rarely used
 Afterburner • Coin Boost • Fume boost • Magnet • Thrusters • Wheelie Boost • Wings | Fuel Boost • Heavyweight • Jump Shocks • Overcharged Turbo • Rollcage • Start Boost | Air Control • Flip Boost • Landing Boost
 {: style="text-align: center;"}
 
-gutterbutter contact :  
+**gutterbutter contact :  **
+
 Discord: gutterbutter#0267
 
 #### Rally Car Description by Cole ST
@@ -424,6 +425,7 @@ Discord: gutterbutter#0267
 **Why it is different than other vehicles** - It is an easy vehicle for beginners
 
 **Description**
+
 The vehicle comes with 1 paint and 2 wheels default and has a total of 18 paints. It is everyone’s favorite cup vehicle. Fast, reliable and with a strong roof to protect your head. Great for racing, awesome for adventure mode (with wings) and great at hill climbing too. Thrusters are awful. 
 
 Must haves |  Useful |  Rarely used
@@ -466,9 +468,10 @@ Intense City | Winter Tires, Wings, Jump Shocks
 Raging Winter | Winter Tires, Wings, Jump Shocks (alternates: Coin Boost instead of Jump Shocks)
 
 **Cole\|ST contact and channels:
-Discord: Cole\|ST#1883
-[YouTube]( https://youtube.com/channel/UCec1TMctJXNwDGXqQyijtrA)
-[Spotify]( https://open.spotify.com/show/36Rx2ewo4aiLraYRYxvrv4?si=8K33Zws5SvqyHIZfNhstCQ)
+
+	Discord: Cole\|ST#1883  
+	[YouTube]( https://youtube.com/channel/UCec1TMctJXNwDGXqQyijtrA)  
+	[Spotify]( https://open.spotify.com/show/36Rx2ewo4aiLraYRYxvrv4?si=8K33Zws5SvqyHIZfNhstCQ)
 
 ### Different Driving Techniques
 This section of the Game Manual will try to explain different driving techniques, how you can learn them and master them more easily.  
