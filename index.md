@@ -360,8 +360,8 @@ I think everyone needs to decide by themselves if buying and upgrading the vehic
 
 **Deflorator contact and channel : ** 
 
-	Discord: Deflorator#3946  
-	[Youtube]( https://www.youtube.com/channel/UCbBmX5CU0SsFLlar2bxlQSQ)
+- Discord: Deflorator#3946  
+- [Youtube]( https://www.youtube.com/channel/UCbBmX5CU0SsFLlar2bxlQSQ)
 
 #### Monster Truck Description by gutterbutter
 **Introduction**  
@@ -388,7 +388,7 @@ Jump shocks are not really used on this vehicle. If needed it could be a decent 
 Flip boost and air control are fun if used together on a level such as the moon where there is room to flip this elephantine vehicle around and where gravity is not pulling it down.
 
 The roll cage is a useful item especially in a level from the mines.
-Or wherever you feel your head threatened such as the bubble tubes in Rustbucket Reef.
+Or wherever you feel your head threatened such as the bubble tubes in Rustbucket Reef.  
 
 As I have said before water is not a monster truck’s friend however in the Rustbucket Reef levels this vehicle does well, however it is not the best. But there are less protected vehicles.
 
@@ -469,9 +469,9 @@ Raging Winter | Winter Tires, Wings, Jump Shocks (alternates: Coin Boost instead
 
 **Cole\|ST contact and channels:
 
-	Discord: Cole\|ST#1883  
-	[YouTube]( https://youtube.com/channel/UCec1TMctJXNwDGXqQyijtrA)  
-	[Spotify]( https://open.spotify.com/show/36Rx2ewo4aiLraYRYxvrv4?si=8K33Zws5SvqyHIZfNhstCQ)
+- Discord: Cole\|ST#1883  
+- [YouTube]( https://youtube.com/channel/UCec1TMctJXNwDGXqQyijtrA)  
+- [Spotify]( https://open.spotify.com/show/36Rx2ewo4aiLraYRYxvrv4?si=8K33Zws5SvqyHIZfNhstCQ)
 
 ### Different Driving Techniques
 This section of the Game Manual will try to explain different driving techniques, how you can learn them and master them more easily. 
@@ -583,6 +583,7 @@ COINS | GEMS | ITEMS
 1000 coins for starting the adventure + 400 for every level reached. So a Level 1 chest will contain 1400 coins, Level 2: 1800 and so on... This has no maximum level cap. | 1 gem for starting + 1 gem every 4 Levels reached. So a Level 1 chest will contain 1 gem, Level 4: 2, Level 8: 3 and so on... This has a maximum level cap of 28, meaning you can get a maximum of 8 gems in every task. | Levels 1-6: Minimum of 18 common and 2 rare parts. Levels 7-12: Minimum of 29 common and 2 rare parts. Levels 13+: Minimum of 45 common and 6 rare parts.
 
 For the hard map, (Forest Trials, Intense City and Raging Winter), the adventure awards differ as follows:       
+
 COINS | GEMS | ITEMS
 -- | -- | --  
 1000 coins for starting the adventure + 200 for every level reached. So a Level 1 chest will contain 1200 coins, Level 2: 1400 and so on... | 1 gem for starting + 1 gem every 5 Levels reached. So a Level 1 chest will contain 1 gem, Level 5: 2, Level 10: 3 and so on... | Levels 1-5: Minimum of 18 common and 2 rare parts. Levels 6+: Minimum of 29 common and 2 rare parts.
@@ -860,7 +861,9 @@ When you start this track a simple trick can be very useful. Wait a few seconds 
 Use extended Jump Shocks to overcome the first curve on the track.
 
 [This link will show you how this track looks like in one big picture made of many slides](https://cdn.discordapp.com/attachments/798058427598766130/800442112519831552/Vokope_-_Multi_Jump_-_Seasons_Tears.jpg)  
+
 ![https://cdn.discordapp.com/attachments/798058427598766130/800442112519831552/Vokope_-_Multi_Jump_-_Seasons_Tears.jpg](https://cdn.discordapp.com/attachments/798058427598766130/800442112519831552/Vokope_-_Multi_Jump_-_Seasons_Tears.jpg)  
+
 \*Source – Vokope youtube video (Hill Climb Racing 2 - 37185 + 4 Free Tickets (Seasons Tears))
 
 ## Chapter 6 - Game Guidelines
