@@ -20,12 +20,14 @@ First edition Mar 2021
 
 **Table of Contents**
 
+0. Introduction
 1. TOC
 {:toc}
 
 ***
 
 **Introduction**  
+
 Hill Climb Racing 2 (HCR2) is the successful sequel to Hill Climb Racing created by Finnish development studio Fingersoft (Oulu, Finland). It is a 2D driving simulation that is controlled easily using two simple controls:
 
 **Brake or Reverse - Throttle** (the left and right thumbs).
@@ -36,10 +38,13 @@ The game can be installed from your Mobile providers App store and played on a s
 We hope this (unofficial) Manual will help and guide you in the best way to gather in-game resources, how to manage them, which vehicles to use on different Adventure tracks, master different driving techniques, how to best drive Public Events, and our main goal is to help you drive in the Team Events.
 
 [This link will take you to Fingersoft Privacy Policy and EULA rules.](http://fingersoft.com/privacy.html)
+{: style="text-align: center;"}
 
 This is an Unofficial Manual created by a group of HCR2 enthusiasts!!
+{: style="text-align: center;"}
 
 **Enjoy playing the game and please Don’t Panic**
+{: style="text-align: center;"}
 
 ## Chapter 1 - Vehicles
 In Chapter 1, we will try to describe / dissect all the vehicles used within the game listing their advantages and disadvantages. Advise which of the four vehicles features and parts should be upgraded first. We will also try to teach you the different driving techniques - wheelie, jumping, land boost etc. In this first edition we haven’t include any driving techniques, they will be covered in future editions.
@@ -102,7 +107,7 @@ Some vehicles can have the same 4 features (for example Chopper and Tank), some 
 
 One element to be aware of is some vehicles have the same feature, but that feature has a different / “extra” effect on different vehicles. For example, the Superbike and the Formula have the same feature of Downforce but it gives an “extra” effect on the Formula.
 
-Vehicle feature and icon  | Description
+Vehicle feature ~~and icon~~  | Description
 -- | --
 AIR BRAKE| Braking while in the air will bring you down faster. (applies to Supercar)
 AIR CONTROL | Improved air controls makes handling the vehicle a lot easier in jumps. (applies to Bus and Monowheel)
@@ -143,12 +148,14 @@ With the recent update, v1.42.0, tuning parts can now be adjusted by expanding t
 A very good tool for developing your HCR2 Account aka Bill Newton is Aero’s HCR2 Monitoring Spreadsheet. By using this tool, you can easily follow your in-game progress, make plans on how to spend Coins on vehicle features and tuning parts, and etc.
 
 For downloading this spreadsheet use this Reddit link!!
+{: style="text-align: center;"}
 [https://www.reddit.com/r/HillClimbRacing/comments/jqr5nk/new_spreadsheet_v1401_with_rotator/](https://www.reddit.com/r/HillClimbRacing/comments/jqr5nk/new_spreadsheet_v1401_with_rotator/)
+{: style="text-align: center;"}
 
 TUNING PART  |  RARITY | ICON  | DESCRIPTION  | MOST USEFUL TASKS
 -- | -- | -- | -- | --
 Air Control  | Common part | ![](https://media.discordapp.net/attachments/813824578077196338/813826404714151946/Aircontrol.png) | Turn faster in the air | It helps to make the vehicle control more easily midair and you can use it in a team or public events for flips.
-Heavyweight | Common part  | ![](https://media.discordapp.net/attachments/813824578077196338/813826772126662687/Weight.png) | Add weight to the front of your vehicle to be able to destroy obstacles easier. | This part can be used to help keep the vehicle rooted to the ground or add extra ballast if you need to destroy items.
+Heavyweight | Common part  | ![](https://media.discordaspp.net/attachments/813824578077196338/813826772126662687/Weight.png) | Add weight to the front of your vehicle to be able to destroy obstacles easier. | This part can be used to help keep the vehicle rooted to the ground or add extra ballast if you need to destroy items.
 Magnet  | Common part  | ![](https://media.discordapp.net/attachments/813824578077196338/813826557097410631/Magnet_Part.png) | Collect fuel and coins with a wider radius. |  It helps to collect Coins and Fuel in a Bigger Radius.
 Roll cage | Common part | ![](https://media.discordapp.net/attachments/813824578077196338/813826661913067612/Roll-cage.png) | Protect the driver from collisions. | On Cups and Adventure maps with many roofs and prevent.
 Wings | Common part | ![](https://media.discordapp.net/attachments/813824578077196338/813826807933567046/Wing.png) |  Glide through the air & increase your jump length. | Long Jump Event or Long Jumps in Adventure maps.
@@ -254,12 +261,14 @@ Intense City | Winter Tires, Wings, Jump Shocks
 Raging Winter | Wings, Jump Shocks, Thrusters
 
 If You want to contact us:  
-Flash contact:  
-Discord: Flash™#3768  
-CU \| Marko contact:  
+
+**Flash contact:**  
+Discord: Flash™#3768
+
+**CU \| Marko contact:**  
 Discord: CU \| Marko#1218  
 #### Tractor Description by dada
-"The King of Agricultural Equipment"
+***"The King of Agricultural Equipment"***
 
 **Wiki Description**
 - "The Tractor is a heavy vehicle that has decent speed and acceleration, is very stable and has a large fuel tank. This makes it a better choice on maps with generally flat terrain, though it is also one of the best vehicles at climbing very steep hills with the right Tuning Parts. The suspension is decent."
@@ -281,8 +290,10 @@ Discord: CU \| Marko#1218
 - If not careful, the bucket has a tendency to get stuck occasionally, e.g. on rope bridges, and can flip the tractor over in an unpredictable way
 - Thrusters not available
 - Even though it is good at many things, it is often not the best for specific tasks
-Nevertheless, it tends to be vastly underrated and is an extremely fun vehicle to drive.
-Handling
+
+*Nevertheless, it tends to be vastly underrated and is an extremely fun vehicle to drive.* 
+
+**Handling**
 - Power is delivered via the back wheels. The small front wheels provide stability but can detract from the speed of the vehicle. Accordingly, acceleration is often strongest when balancing on the back wheels.
 - Having the bucket firm upfront may increase distance in the air if angled correctly, and can assist in crossing finish lines first. The bucket in upwards position provides a measure of protection for the driver e.g. when driving through a cave. Nevertheless, the vehicle often performs best when the bucket is loose.
 
@@ -292,13 +303,13 @@ Handling
 - Increasing Damage makes the tractor heavier and allows it to break obstacles more easily. Nevertheless, it is sometimes best to set it as low as possible in order to lighten the vehicle and to pass over obstacles without breaking them.
 
 **Parts recommendations**
-- Wings, Winter Tires, and Magnet are often useful.
-- Rollcage can provide good protection even if not maxed.
-- Wings & Overcharged Turbo work well together. Surprising speed and distance is possible when triggering Overcharged Turbo at the same time as launching into the air.
-- Cups:
+- **Wings, Winter Tires, and Magnet** are often useful.
+- **Rollcage** can provide good protection even if not maxed.
+- **Wings & Overcharged Turbo** work well together. Surprising speed and distance is possible when triggering Overcharged Turbo at the same time as launching into the air.
+- **Cups:**
 	- Afterburner, Overcharged Turbo & Coin Boost is often the fastest combination and upgrading these parts is highly recommended.
 	- Wings, Afterburner & Coin Boost is another popular combination.
-- Adventures:  
+- **Adventures:**  
 
 Adventures | Tractor Parts
 -- | --
@@ -319,8 +330,8 @@ Forest Trials | Wings, Winter Tires, Rollcage
 Intense City | Wings, Rollcage, Jump Shocks
 Raging Winter | Wings, Winter Tires, Wheelie Boost
 
-Note!
-Tractor Wars
+Note!  
+**Tractor Wars**  
 If you would like to compete in tractor wars, make friends with [Numpty](https://playhcr.com/invite?id=95Pyg5)  
 Note: he may unfriend you if you use another vehicle in the daily, and you will need to friend him again if you would like to re-join.  
 Results are reported on the tractor wars [discord server]( https://discord.gg/ND6avWY)
@@ -331,29 +342,35 @@ Anything worth adding? dadahcr2@gmail.com or Discord dada#1710
 
 #### Motocross Description by Deflorator
 **Description**  
+
 In comparison to other vehicles as for example the rally car, the Motocross seems to be not as popular. The reason for this is pretty simple; it’s one of the first vehicles that you unlock, however, it is not a great vehicle to drive cups or Adventure with if it’s not fully maxed out. Especially in the beginning phases of the game you need to make sure to spend your coins well. So, players obviously rather spend money on cars that are more useful.
 When I started playing the game, there were only about 5 vehicles and the motocross was one of them. So, I spent all coins on all vehicles as there weren’t that many.
 
 **Advantages**  
+
 The advantages of the motocross are to my mind the fun of driving it. You probably need it maxed out and have some higher-level parts to experience the full power and speed it can have. I think the way you can use the vehicle with Thrusters and the LB is unique and always fun to drive. It’s definitely a vehicle that is stronger when driving downhill, it can pick up a lot of speed when continuously activating the landing boost. It’s clearly a nice to have vehicle if you have the coins to spend.
 
 **Disadvantages**  
+
 It’s really tough to use at the adventure mode as the engine is not super strong and the fuel is also quite small. It’s just not a vehicle to climb hills. Also, cups are quite hard to drive if it’s not maxed out.
 
 **Overall experience**  
+
 I think everyone needs to decide by themselves if buying and upgrading the vehicle has any benefit. For me it was just the fun factor, but if you’re only looking to have a good vehicle to grind cups, the motocross is probably not the best choice. If you play Team Events, you will have to upgrade it at some point anyways.
 
-Deflorator contact and channel :  
-Discord: Deflorator#3946  
-[Youtube]( https://www.youtube.com/channel/UCbBmX5CU0SsFLlar2bxlQSQ)
+**Deflorator contact and channel : ** 
+
+	Discord: Deflorator#3946  
+	[Youtube]( https://www.youtube.com/channel/UCbBmX5CU0SsFLlar2bxlQSQ)
 
 #### Monster Truck Description by gutterbutter
 **Introduction**  
-If I was to read a part about the monster truck, I think I would write it as such.
 
+If I was to read a part about the monster truck, I think I would write it as such.    
 Once you reach level of gold (I don't remember) and you see the gold window slide down and you really see this bouncing big wheeled wonder for the first time. You gotta ask yourself, what am I going to do with a monster truck?!. Well, if you need a vehicle which can bounce across ice flows with the greatest of ease. If you want a vehicle that uneven ground doesn't upset too much. Monster truck is it.
 
-**Description, Advantages and Disadvantages**  
+**Description, Advantages and Disadvantages** 
+
 By upgrading this vehicle to it’s a maximum you will see a great increase in both speed and power. However, it is prone to try to put you on your head at takeoff if you are not careful.
 
 This can be compensated for by using start boost. Or even possibly afterburner.
@@ -384,6 +401,7 @@ Overcharge turbo is great speed increase provided you are able to stay in the ga
 However, this vehicle has its own drawbacks, such as the same bouncy suspension and the lack of head protection. Now this vehicle can hold its own on almost all levels. However, you do need to stay out of the water, do not try to cross under alligators, go right over the top, going under will end badly.
 
 **Monster Truck recap**  
+
 The monster truck is an all-around beast. It is good for getting over obstacles and is great on the ice things in the water on maps like winter and raging winter.
 
 The vehicle is not great until you get it near the max level. Before that, it is way too unstable. However, once you get it there it is very good.
@@ -395,13 +413,15 @@ Must haves |  Useful |  Rarely used
 Afterburner • Coin Boost • Fume boost • Magnet • Thrusters • Wheelie Boost • Wings | Fuel Boost • Heavyweight • Jump Shocks • Overcharged Turbo • Rollcage • Start Boost | Air Control • Flip Boost • Landing Boost
 {: style="text-align: center;"}
 
-gutterbutter contact :
+gutterbutter contact :  
 Discord: gutterbutter#0267
 
 #### Rally Car Description by Cole ST
-Advantages of Rally Car - Good in adventure and cups
-Disadvantages of Rally Car - Kind of expensive, grip is low and needs good parts to be great
-Why it is different than other vehicles - It is an easy vehicle for beginners
+**Advantages of Rally Car** - Good in adventure and cups  
+
+**Disadvantages of Rally Car** - Kind of expensive, grip is low and needs good parts to be great  
+
+**Why it is different than other vehicles** - It is an easy vehicle for beginners
 
 **Description**
 The vehicle comes with 1 paint and 2 wheels default and has a total of 18 paints. It is everyone’s favorite cup vehicle. Fast, reliable and with a strong roof to protect your head. Great for racing, awesome for adventure mode (with wings) and great at hill climbing too. Thrusters are awful. 
@@ -413,13 +433,13 @@ Afterburners • Coin Boost • Fume Boost • Landing Boost • Overcharged Tur
 
 Note!
 
-Rally Car has Secret Start
+**Rally Car has Secret Start**
 
 If you want a better start, hold the throttle until the timer says 1 and then let go until the race starts giving you the Secret Start. At the start of the race, you want to hold the throttle. You hold it until the clock reaches 1 (because of reaction time you might want to let go at the end of 2). Once you let go you don’t want to press gas until the race starts (again reaction time so at the end of 1). The game won’t say perfect start because you let go directly behind the green area (if you did it right) but it is faster.
 
-[Video explanation of the Secret Start](https://www.youtube.com/watch?v=w_MVsT1gTd8)
+[Video explanation of the **Secret Start**](https://www.youtube.com/watch?v=w_MVsT1gTd8)
 
-Reliable Rally Car setup for driving Adventures:
+**Reliable Rally Car setup for driving Adventures:**
 
 Adventures  | Rally Car Setup
 -- | --
@@ -436,7 +456,7 @@ Backwater Bog | Jump Shocks, Landing Boost, Wings
 Racier Glacier | Jump Shocks, Landing Boost, Wings
 Factory | Winter Tires, Wings, Jump Shocks
 
-Rally Car Setup for Special maps
+**Rally Car Setup for Special maps**
 
 Special maps | Rally Car Setup
 -- | --
@@ -445,7 +465,7 @@ Forest Trials | Jump Shocks, Landing Boost, Wings
 Intense City | Winter Tires, Wings, Jump Shocks
 Raging Winter | Winter Tires, Wings, Jump Shocks (alternates: Coin Boost instead of Jump Shocks)
 
-Cole ST contact and channels:
+**Cole\|ST contact and channels:
 Discord: Cole\|ST#1883
 [YouTube]( https://youtube.com/channel/UCec1TMctJXNwDGXqQyijtrA)
 [Spotify]( https://open.spotify.com/show/36Rx2ewo4aiLraYRYxvrv4?si=8K33Zws5SvqyHIZfNhstCQ)
