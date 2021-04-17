@@ -195,7 +195,7 @@ Timetable of durations for Fuel Tank feature
 
  Lv 1 | Lv 2  | Lv 3 |  Lv 4 |  Lv 5 |  Lv 6 |  Lv 7 |  Lv 8 |  Lv 9 |  Lv 10  
 -- | -- | -- | -- | -- | -- | -- | -- | -- | --   
-38 s  | 38.8 s |  39.8 s |  40.8 s  | 42 s  | 43.2 s  | 44.4 s 45.6 s  | 46.4 s  | 48 s  
+38 s  | 38.8 s |  39.8 s |  40.8 s  | 42 s  | 43.2 s  | 44.4 s | 45.6 s  | 46.4 s  | 48 s  
 30 s  | 31.5 s  | 32.8 s  | 34.4 s  | 36.2 s  | 38 s  | 39.8  | s 41.6 s  | 43.4 s  | 45.2 s  
 30 s  | 31.5 s  | 32.8 s  | 34.4 s  | 36.2 s  | 38 s  | 39.8 s  | 41.6 s  | 43.4 s  | 45.2 s
 
@@ -225,7 +225,7 @@ It costs 208,400 coins to max a single upgrade. It costs 833,600 coins to max al
 
 Good Parts  | Useful  | Rarely used 
 -- | -- | -- 
-Fume Boost • Jump Shocks • Landing Boost • Wings | Air Control • Winter Tires • Start Boost • Magnet • Wheelie Boost • Flip Boost • Thrusters | Rollcage • Overcharged Turbo • Afterburners • Heavyweight • Coin Boost 
+Fume Boost • Jump Shocks • Landing Boost • Wings {: style="text-align: center;"} | Air Control • Winter Tires • Start Boost • Magnet • Wheelie Boost • Flip Boost • Thrusters {: style="text-align: center;"} | Rollcage • Overcharged Turbo • Afterburners • Heavyweight • Coin Boost {: style="text-align: center;"}
 
 **Hill Climber Setup for driving Adventures:**
 
@@ -253,11 +253,11 @@ Forest Trials | Jump Shocks, Coins Boost, Wings
 Intense City | Winter Tires, Wings, Jump Shocks
 Raging Winter | Wings, Jump Shocks, Thrusters
 
-If You want to contact us:
-Flash contact:
-Discord: Flash™#3768
-CU \| Marko contact:
-Discord: CU \| Marko#1218
+If You want to contact us:  
+Flash contact:  
+Discord: Flash™#3768  
+CU \| Marko contact:  
+Discord: CU \| Marko#1218  
 #### Tractor Description by dada
 "The King of Agricultural Equipment"
 
@@ -299,7 +299,6 @@ Handling
 	- Afterburner, Overcharged Turbo & Coin Boost is often the fastest combination and upgrading these parts is highly recommended.
 	- Wings, Afterburner & Coin Boost is another popular combination.
 - Adventures:
-
 Adventures | Tractor Parts
 -- | --
 Countryside | Wings, Winter Tires, Coin Boost
