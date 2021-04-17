@@ -920,7 +920,7 @@ Don't expect to be accepted into a team if you have a low GP (beginner) and you 
 
 ### Daily Checklist
 This list can help you track all tasks in the game for the better and more efficient playing of the game, building your Garge Power, and improve your driving skills.
-- [   ]  &nbsp; **Every 3 hours**: Free FS upgrades – use them to upgrade your newly bought vehicles and Common and Rare parts. Free upgrades are limited and depending on the level of upgrades.
+- [ ]  &nbsp; **Every 3 hours**: Free FS upgrades – use them to upgrade your newly bought vehicles and Common and Rare parts. Free upgrades are limited and depending on the level of upgrades.
 - [ ]  &nbsp; **Every 4 hours**: 2 free Team Tickets – play Team Event
 - [ ]  &nbsp; **Every 6 hours**: Free Ads Chest in the Shop – open it
 - [ ] &nbsp; **Every 8 hours**: Free Chest in the Shop – open it
