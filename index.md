@@ -9,10 +9,11 @@
 {: style="text-align: center;"}
 
 [![Game Manual 1st Edition](https://cdn.discordapp.com/attachments/796001680474112020/812400021693267999/GM_Dont_Panic_logo.png)](https://drive.google.com/file/d/1GJqkqqvUuArcJe7balZAtpPQcO0me3d1/view)
+{: style="text-align: center;"}
 
-**Unofficial Manual**
-First edition Mar 2021
-(created by a group of HCR2 enthusiasts)
+**Unofficial Manual**  
+First edition Mar 2021  
+(created by a group of HCR2 enthusiasts)  
 {: style="text-align: center;"}
 
 ***
@@ -24,10 +25,11 @@ First edition Mar 2021
 
 ***
 
-# Introduction
+Introduction
 Hill Climb Racing 2 (HCR2) is the successful sequel to Hill Climb Racing created by Finnish development studio Fingersoft (Oulu, Finland). It is a 2D driving simulation that is controlled easily using two simple controls:
 
-->**Brake or Reverse - Throttle** (the left and right thumbs).<-
+**Brake or Reverse - Throttle** (the left and right thumbs).
+{: style="text-align: center;"}
 
 The game can be installed from your Mobile providers App store and played on a smartphone or on a tablet (the PC version has ceased to be maintained). Don't be fooled by the simplicity of the game, there are so many things in the game, whilst in the heat of the battle, that could make you lose your temper, swear and could even cause you to break your device. Our advice is simple be patient with the game!!
 
@@ -957,11 +959,12 @@ HCR2 players (sort by alphabet)
 - The Doc
 
 Youtube channels (sort by alphabet)
-- io%oi - https://www.youtube.com/channel/UCgTGClVoHLQ5l01T5UzYWDg
+- io&oi - https://www.youtube.com/channel/UCgTGClVoHLQ5l01T5UzYWDg
 - Master HCR - https://www.youtube.com/channel/UCY0QEkKinR2XqKM8n2RKaSw
 - Vereshchak - https://www.youtube.com/channel/UCyL-QGEkA1r7R7U5rN_Yonw
 - VOKOPE - https://www.youtube.com/channel/UC16xML3oyIZDeF3g8nnV6MA
 
 ***
+
 ->[wiki](http://wiki.hcr2.info) \| [faq](http://faq.hcr2.info) \| [](hcr2.info)<-
 {: style="color:gray; font-size: 80%; text-align: center;"}
