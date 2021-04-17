@@ -63,7 +63,7 @@ Rank Required  | Vehicle Name  | Cost  | Appearance
 Bronze I| Hill Climber | Free | ![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/f/f3/Hill_Climber.png)
 Bronze II | Scooter | 5,000 Coins | ![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/a/ac/Scooter.png)
 Bronze III | Bus | 7,000 Coins | ![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/4/43/Bus.png)
-Silver I | Hill Climber Mk. 2 | 9,000 Coins | ![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/c/cd/Superjeep.png)
+{: style="text-align: center;"}Silver I | Hill Climber Mk. 2 | 9,000 Coins | ![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/c/cd/Superjeep.png)
 Silver I | Tractor | 15,000 Coins | ![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/7/7a/Tractor.png)
 Silver II | Motocross | 20,000 Coins | ![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/f/fa/Motocross.png)
 Silver III | Dune Buggy | 30,000 Coins  | ![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/4/48/Buggy.png)
@@ -91,7 +91,9 @@ Every vehicle has 4 separate features that can be upgraded to increase its perfo
 
 With 4 features, every vehicle has tuning parts and depends on the vehicle type, a vehicle can have a minimum of 8 until a maximum of 17 available tuning parts.
 
-->**There are overall 21 different vehicle features and 17 different tuning parts. To max them all out, you will need to spend 216.405.400 Coins to reach the maximum Garage Power of 9170**<-
+**There are overall 21 different vehicle features and 17 different tuning parts. To max them all out, you will need to spend 216.405.400 Coins to reach the maximum Garage Power of 9170**
+{: style="text-align: center;"}
+
 #### Description of Vehicle Features
 The vehicle features can be leveled-up from level 1 to level 20 and can be adjusted by expanding the upgrades panel . The total cost of upgrading all features on all vehicles is **48.173.000 Coins**.
 
@@ -136,11 +138,13 @@ With the recent update, v1.42.0, tuning parts can now be adjusted by expanding t
 
 **NOTE!**
 
-->**\* Aero’s Monitoring Spreadsheet \***<-
+**\* Aero’s Monitoring Spreadsheet \***
+{: style="text-align: center;"}
+
 A very good tool for developing your HCR2 Account aka Bill Newton is Aero’s HCR2 Monitoring Spreadsheet. By using this tool, you can easily follow your in-game progress, make plans on how to spend Coins on vehicle features and tuning parts, and etc.
 
 For downloading this spreadsheet use this Reddit link!!
-https://www.reddit.com/r/HillClimbRacing/comments/jqr5nk/new_spreadsheet_v1401_with_rotator/
+[https://www.reddit.com/r/HillClimbRacing/comments/jqr5nk/new_spreadsheet_v1401_with_rotator/](https://www.reddit.com/r/HillClimbRacing/comments/jqr5nk/new_spreadsheet_v1401_with_rotator/)
 
 TUNING PART  |  RARITY | ICON  | DESCRIPTION  | MOST USEFUL TASKS
 -- | -- | -- | -- | --
@@ -187,15 +191,16 @@ Timetable of durations for Fuel Tank feature
 \*/ Fuel Lv.1- 30 s Fuel Lv. 20 - 56 s
 \* / Fuel Lv.1- 30 s Fuel Lv. 20 - 56 s
 
-***\*The following Table shows the fuel durations for every upgradeable Fuel Tank feature at every level.***
+***\*The following Table shows the fuel durations for every upgradeable Fuel Tank feature at every level.***  
+
  Lv 1 | Lv 2  | Lv 3 |  Lv 4 |  Lv 5 |  Lv 6 |  Lv 7 |  Lv 8 |  Lv 9 |  Lv 10  
--- | -- | -- | -- | -- | -- | -- | -- | -- | -- 
+-- | -- | -- | -- | -- | -- | -- | -- | -- | --   
 38 s  | 38.8 s |  39.8 s |  40.8 s  | 42 s  | 43.2 s  | 44.4 s 45.6 s  | 46.4 s  | 48 s  
 30 s  | 31.5 s  | 32.8 s  | 34.4 s  | 36.2 s  | 38 s  | 39.8  | s 41.6 s  | 43.4 s  | 45.2 s  
 30 s  | 31.5 s  | 32.8 s  | 34.4 s  | 36.2 s  | 38 s  | 39.8 s  | 41.6 s  | 43.4 s  | 45.2 s
 
-Lv 11  | Lv 12  | Lv 13  | Lv 14  | Lv 15  | Lv 16  | Lv 17  | Lv 18  | Lv 19  | Lv 20  
--- | -- | -- | -- | -- | -- | -- | -- | -- | -- 
+Lv 11  | Lv 12  | Lv 13  | Lv 14  | Lv 15  | Lv 16  | Lv 17  | Lv 18  | Lv 19  | Lv 20   
+-- | -- | -- | -- | -- | -- | -- | -- | -- | --   
 49 s |  50.2 s |  51.2 s  | 52.2 s  | 53 s  | 53.6 s  | 54.2 s  | 54.6 s |  54.8 s  | 55 s 
 47 s  | 48.6 s  | 50.2 s  | 51.6 s  | 53 s  | 54 s |  54.8 s  | 55.4 s  | 55.8 s  | 56 s 
 47 s  | 48.6 s  | 50.2 s  | 51.6 s  | 53 s  | 54 s  | 54.8 s  | 55.4 s  | 55.8 s |  56 s
@@ -219,13 +224,14 @@ It costs 208,400 coins to max a single upgrade. It costs 833,600 coins to max al
 **Parts tips for Hill Climber:**
 
 Good Parts  | Useful  | Rarely used 
--- | -- | --
+-- | -- | -- 
 Fume Boost • Jump Shocks • Landing Boost • Wings | Air Control • Winter Tires • Start Boost • Magnet • Wheelie Boost • Flip Boost • Thrusters | Rollcage • Overcharged Turbo • Afterburners • Heavyweight • Coin Boost 
 
 **Hill Climber Setup for driving Adventures:**
-Adventures | Hill Climber Setup
--- | --
-Countryside | Jump Shocks, Landing Boost, Wings
+
+Adventures | Hill Climber Setup 
+-- | --  
+Countryside | Jump Shocks, Landing Boost, Wings  
 Forest | Jump Shocks, Landing Boost, Wings
 City | Wings, Jump Shocks, Magnet
 Mountain | Wings, Fume Boost, Winter Tires
@@ -239,6 +245,7 @@ Racier Glacier | Jump Shocks, Landing Boost, Wings
 Factory | Jump Shocks, Landing Boost, Wings
 
 **Hill Climber Setup for Special maps**
+
 Special maps | Hill Climber Setup
 -- | --
 Moon | Jump Shocks, Landing Boost, Wings
@@ -249,8 +256,8 @@ Raging Winter | Wings, Jump Shocks, Thrusters
 If You want to contact us:
 Flash contact:
 Discord: Flash™#3768
-CU | Marko contact:
-Discord: CU | Marko#1218
+CU \| Marko contact:
+Discord: CU \| Marko#1218
 #### Tractor Description by dada
 "The King of Agricultural Equipment"
 
