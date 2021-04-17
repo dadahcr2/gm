@@ -5,10 +5,6 @@
 {: style="text-align: center;"}
 
 []()
-
-***
-
-<img src=https://cdn.discordapp.com/attachments/806343355264401478/826585261714440192/image0.png" alt="HCR2 Game Manual">
 															
 [![Game Manual 1st Edition](https://cdn.discordapp.com/attachments/796001680474112020/812400021693267999/GM_Dont_Panic_logo.png)](https://drive.google.com/file/d/1GJqkqqvUuArcJe7balZAtpPQcO0me3d1/view)
 {: style="text-align: center;"}
