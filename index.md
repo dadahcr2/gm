@@ -3,6 +3,7 @@
 [wiki](http://wiki.hcr2.info) \| [faq](http://faq.hcr2.info) \| [hcr2.info](hcr2.info)
 {: style="text-align: center;"}
 
+[]()
 
 [](![HCR2 Game Manual](https://cdn.discordapp.com/attachments/806343355264401478/826585261714440192/image0.png))
 {: style="text-align: center;"}
@@ -24,7 +25,7 @@ First edition Mar 2021
 
 ***
 
-Introduction
+**Introduction**  
 Hill Climb Racing 2 (HCR2) is the successful sequel to Hill Climb Racing created by Finnish development studio Fingersoft (Oulu, Finland). It is a 2D driving simulation that is controlled easily using two simple controls:
 
 **Brake or Reverse - Throttle** (the left and right thumbs).
@@ -34,8 +35,7 @@ The game can be installed from your Mobile providers App store and played on a s
 
 We hope this (unofficial) Manual will help and guide you in the best way to gather in-game resources, how to manage them, which vehicles to use on different Adventure tracks, master different driving techniques, how to best drive Public Events, and our main goal is to help you drive in the Team Events.
 
-The link below will take you to Fingersoft Privacy Policy and EULA rules.
-http://fingersoft.com/privacy.html
+[This link will take you to Fingersoft Privacy Policy and EULA rules.](http://fingersoft.com/privacy.html)
 
 This is an Unofficial Manual created by a group of HCR2 enthusiasts!!
 
