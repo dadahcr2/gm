@@ -662,17 +662,19 @@ It will be included in the upcoming edition of the Game Manual
 
 ## Chapter 4 - Public Event
 In Chapter 4, we will try to analysis Public Event tracks and give you guidelines how to drive the Public Events most effectively.
+
 Because of the envisioned idea of how this Chapter will look like, we will try to make every week a Public Event bulletin.
 
 For now, this selection of the Public Event Chapter will describe what Public Events are, what is the rules for Public Events and why is one of the smarter moves to spend Gems on the Public Event and how much Gems you need to spend (you will need to able fulfill some conditions first).
 
 **Public Event Intro**
+
 Public Events are limited-time events that offer special challenges, activities and rewards that you may not get elsewhere in HCR 2. These challenges can range from long jump to time attack to seasonal themed celebrations. Public Events start on Wednesday and end on Monday.
 To access the current timed event, tap the Events icon on the game interface. This will take you to the event menu. Each event has its own rules and conditions for victory, which will be explained there. If there is a countdown displayed here, it means you need to come back when the countdown is over to play the next event as it begins.
 
 You will be given 4 free Event Tickets and one Ticket by watching video ads every day during the event. When you run out of Event Tickets, you must wait 24 hours for your free tickets to restock, or you can buy additional tickets instantly for 20 gems.
 
-Note: Special time dependent events like Christmas or Halloween last longer than other weekly events. Regularly they last 12 days
+**Note:** Special time dependent events like Christmas or Halloween last longer than other weekly events. Regularly they last 12 days
 
 ### Spending Gems in Public Event
 A smart way for spending Gems is in Public Events because you can spend fewer Gems to open a Legendary Chest and win 3×Legendary Part. With a small help of mathematics, we will present to you how much Gems you need to spend in Public Event.
@@ -752,7 +754,7 @@ POINTS | REWARDS
 
 In addition, the Winning Team’s Prize is a Rare Chest
 
-**Types of Team Event tracks:**
+**Types of Team Event tracks:**  
 Backwater Bog  
 Beach  
 City  
@@ -888,13 +890,15 @@ Every vehicle you buy, Fingersoft gives you free vehicle feature level upgrades 
 - Install Discord program. Go to Settings and left from Facebook icon you will see Discord icon, tap on it and install Discord on your smartphone, and you can download and install Discord App on your computer also. HCR2 has a vibrant Discord community that can help you and your game progress.
 - As soon as you reach the rank of Gold I the option to join a team becomes available, consider joining one of many HCR2 teams. Smart thing is to choose one of Top team who have low ranking teams, for beginners. You can easily search in official Finger Soft HCR2 Discord server in the #team-seeking-player ads from teams that need active players.
 Also, try and finish the monthly Trophy Road as soon as possible. By completing this in a very short time you can receive:  
-	150 Gems   
+
+150 Gems   
 	86.000 Coins   
 	254 Common Parts   
 	78 Rare Parts   
 	43 Epic Parts   
 	13 Legendary Parts   
 	5 Skins  
+	
 - When you in a team, ask for help for example which vehicles to buy or which parts need to be upgraded first. Almost all teams are Team Event based teams so listen to what experienced players have to say and learn from their mistakes.
 - When you drive Adventure maps, drive a Mountain map because that map has the most Coins per meter + you can make stunts for additional coins.
 - Whilst in a team try and drive as many kms for Team Chest. Being a member of a team who can reach minimum Team Chest level 23  
@@ -914,8 +918,8 @@ Don't expect to be accepted into a team if you have a low GP (beginner) and you 
 
 ### Daily Checklist
 This list can help you track all tasks in the game for the better and more efficient playing of the game, building your Garge Power, and improve your driving skills.
-- [ ] **Every 3 hours**: Free FS upgrades – use them to upgrade your newly bought vehicles and Common and Rare parts. Free upgrades are limited and depending on the level of upgrades.
-- [ ] **Every 4 hours**: 2 free Team Tickets – play Team Event
+- [   ] **Every 3 hours**: Free FS upgrades – use them to upgrade your newly bought vehicles and Common and Rare parts. Free upgrades are limited and depending on the level of upgrades.
+- [ ] [  ]() **Every 4 hours**: 2 free Team Tickets – play Team Event
 - [ ] **Every 6 hours**: Free Ads Chest in the Shop – open it
 - [ ] **Every 8 hours**: Free Chest in the Shop – open it
 
