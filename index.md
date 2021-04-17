@@ -224,7 +224,8 @@ It costs 208,400 coins to max a single upgrade. It costs 833,600 coins to max al
 
 Good Parts  | Useful  | Rarely used 
 -- | -- | -- 
-Fume Boost • Jump Shocks • Landing Boost • Wings {: style="text-align: center;"} | Air Control • Winter Tires • Start Boost • Magnet • Wheelie Boost • Flip Boost • Thrusters {: style="text-align: center;"} | Rollcage • Overcharged Turbo • Afterburners • Heavyweight • Coin Boost {: style="text-align: center;"}
+Fume Boost • Jump Shocks • Landing Boost • Wings | Air Control • Winter Tires • Start Boost • Magnet • Wheelie Boost • Flip Boost • Thrusters  | Rollcage • Overcharged Turbo • Afterburners • Heavyweight • Coin Boost 
+{: style="text-align: center;"}
 
 **Hill Climber Setup for driving Adventures:**
 
@@ -297,7 +298,7 @@ Handling
 - Cups:
 	- Afterburner, Overcharged Turbo & Coin Boost is often the fastest combination and upgrading these parts is highly recommended.
 	- Wings, Afterburner & Coin Boost is another popular combination.
-- Adventures:
+- Adventures:  
 Adventures | Tractor Parts
 -- | --
 Countryside | Wings, Winter Tires, Coin Boost
@@ -319,8 +320,8 @@ Raging Winter | Wings, Winter Tires, Wheelie Boost
 
 Note!
 Tractor Wars
-If you would like to compete in tractor wars, make friends with [Numpty](https://playhcr.com/invite?id=95Pyg5)
-Note: he may unfriend you if you use another vehicle in the daily, and you will need to friend him again if you would like to re-join.
+If you would like to compete in tractor wars, make friends with [Numpty](https://playhcr.com/invite?id=95Pyg5)  
+Note: he may unfriend you if you use another vehicle in the daily, and you will need to friend him again if you would like to re-join.  
 Results are reported on the tractor wars [discord server]( https://discord.gg/ND6avWY)
 
 [Additional reference information](http://www.hcr2.info)
