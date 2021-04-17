@@ -1,6 +1,7 @@
 
 
-[wiki](http://wiki.hcr2.info) \| [faq](http://faq.hcr2.info) \| <hcr2.info>
+[wiki](http://wiki.hcr2.info) \| [faq](http://faq.hcr2.info) \| [](hcr2.info)
+{: style="text-align: center;"}
 
 ***
 
