@@ -889,7 +889,7 @@ This list can help you track all tasks in the game for the better and more effic
 
 **Every 24 hours**
 - [ ] Collect Daily Reward
-- [ ] Use Double Coins in Adventure Maps – collect as many as possible Coins
+[ ]   Use Double Coins in Adventure Maps – collect as many as possible Coins
 - [ ] 3 Daily Tasks – complete it
 - [ ] Win 10 Cup racers – drive it, win 10 cup races
 - [ ] Additional Team Event Ticket for free – use it sometimes keep it for the next match if it isn’t going to make a difference for the current match and the next match is likely to start before the ticket resets
@@ -948,7 +948,7 @@ https://hillclimbracing2.gamepedia.com/Hill_Climb_Racing_2_Wiki
 
 HCR2 players (sort by alphabet)
 - Aero
-- Cole|ST
+- Cole\|ST
 - CU Marko
 - dada
 - Deflorator
@@ -966,5 +966,5 @@ Youtube channels (sort by alphabet)
 
 ***
 
-->[wiki](http://wiki.hcr2.info) \| [faq](http://faq.hcr2.info) \| [](hcr2.info)<-
-{: style="color:gray; font-size: 80%; text-align: center;"}
+->[wiki](http://wiki.hcr2.info) \| [faq](http://faq.hcr2.info) \| [hcr2.info](hcr2.info)<-
+{: style="text-align: center;"}
