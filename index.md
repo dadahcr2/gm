@@ -266,7 +266,7 @@ Discord: CU \| Marko#1218
 - "The Tractor comes with a functional front loader that can be used by pressing both pedals (both sides of the device screen) at once, leaving it firm to the front, upwards or loose. This requires some strategy, as the loader can affect the Tractor's balance. The loader bucket's damage can be upgraded, making the tractor an ideal vehicle for maps that have lots of destructible obstacles, like Backwater Bog, Racer Glacier and Skyrock Outpost."
 - "Your character sits at the rear side of the Tractor, making excessive wheelies a dangerous maneuver. It is best to have the roll cage part installed to help avoid this problem"
 
-**Advantages**
+**Advantages**  
 - Fast
 - Flies well
 - Large fuel tank
@@ -276,7 +276,7 @@ Discord: CU \| Marko#1218
 - Powerful Overcharged Turbo
 - Tractor Wars!
 
-**Disadvantages**
+**Disadvantages**  
 - Without the roll cage the driver is very vulnerable especially when doing wheelies or when landing on back wheels, this is due to far back sitting position
 - If not careful, the bucket has a tendency to get stuck occasionally, e.g. on rope bridges, and can flip the tractor over in an unpredictable way
 - Thrusters not available
@@ -286,7 +286,7 @@ Handling
 - Power is delivered via the back wheels. The small front wheels provide stability but can detract from the speed of the vehicle. Accordingly, acceleration is often strongest when balancing on the back wheels.
 - Having the bucket firm upfront may increase distance in the air if angled correctly, and can assist in crossing finish lines first. The bucket in upwards position provides a measure of protection for the driver e.g. when driving through a cave. Nevertheless, the vehicle often performs best when the bucket is loose.
 
-**Upgrades**
+**Upgrades**  
 - It is generally optimal to have Engine and Grip as high as possible.
 - Reducing Suspension can make the vehicle lighter and therefore accelerates a touch quicker; however, this comes at the costs of reduced stability. At very low suspension levels, it is not easy to control.
 - Increasing Damage makes the tractor heavier and allows it to break obstacles more easily. Nevertheless, it is sometimes best to set it as low as possible in order to lighten the vehicle and to pass over obstacles without breaking them.
@@ -299,6 +299,7 @@ Handling
 	- Afterburner, Overcharged Turbo & Coin Boost is often the fastest combination and upgrading these parts is highly recommended.
 	- Wings, Afterburner & Coin Boost is another popular combination.
 - Adventures:  
+
 Adventures | Tractor Parts
 -- | --
 Countryside | Wings, Winter Tires, Coin Boost
@@ -329,30 +330,30 @@ Results are reported on the tractor wars [discord server]( https://discord.gg/ND
 Anything worth adding? dadahcr2@gmail.com or Discord dada#1710
 
 #### Motocross Description by Deflorator
-**Description**
+**Description**  
 In comparison to other vehicles as for example the rally car, the Motocross seems to be not as popular. The reason for this is pretty simple; it’s one of the first vehicles that you unlock, however, it is not a great vehicle to drive cups or Adventure with if it’s not fully maxed out. Especially in the beginning phases of the game you need to make sure to spend your coins well. So, players obviously rather spend money on cars that are more useful.
 When I started playing the game, there were only about 5 vehicles and the motocross was one of them. So, I spent all coins on all vehicles as there weren’t that many.
 
-**Advantages**
+**Advantages**  
 The advantages of the motocross are to my mind the fun of driving it. You probably need it maxed out and have some higher-level parts to experience the full power and speed it can have. I think the way you can use the vehicle with Thrusters and the LB is unique and always fun to drive. It’s definitely a vehicle that is stronger when driving downhill, it can pick up a lot of speed when continuously activating the landing boost. It’s clearly a nice to have vehicle if you have the coins to spend.
 
-**Disadvantages**
+**Disadvantages**  
 It’s really tough to use at the adventure mode as the engine is not super strong and the fuel is also quite small. It’s just not a vehicle to climb hills. Also, cups are quite hard to drive if it’s not maxed out.
 
-**Overall experience**
+**Overall experience**  
 I think everyone needs to decide by themselves if buying and upgrading the vehicle has any benefit. For me it was just the fun factor, but if you’re only looking to have a good vehicle to grind cups, the motocross is probably not the best choice. If you play Team Events, you will have to upgrade it at some point anyways.
 
-Deflorator contact and channel :
-Discord: Deflorator#3946
+Deflorator contact and channel :  
+Discord: Deflorator#3946  
 [Youtube]( https://www.youtube.com/channel/UCbBmX5CU0SsFLlar2bxlQSQ)
 
 #### Monster Truck Description by gutterbutter
-**Introduction**
+**Introduction**  
 If I was to read a part about the monster truck, I think I would write it as such.
 
 Once you reach level of gold (I don't remember) and you see the gold window slide down and you really see this bouncing big wheeled wonder for the first time. You gotta ask yourself, what am I going to do with a monster truck?!. Well, if you need a vehicle which can bounce across ice flows with the greatest of ease. If you want a vehicle that uneven ground doesn't upset too much. Monster truck is it.
 
-**Description, Advantages and Disadvantages**
+**Description, Advantages and Disadvantages**  
 By upgrading this vehicle to it’s a maximum you will see a great increase in both speed and power. However, it is prone to try to put you on your head at takeoff if you are not careful.
 
 This can be compensated for by using start boost. Or even possibly afterburner.
@@ -382,7 +383,7 @@ Overcharge turbo is great speed increase provided you are able to stay in the ga
 
 However, this vehicle has its own drawbacks, such as the same bouncy suspension and the lack of head protection. Now this vehicle can hold its own on almost all levels. However, you do need to stay out of the water, do not try to cross under alligators, go right over the top, going under will end badly.
 
-**Monster Truck recap**
+**Monster Truck recap**  
 The monster truck is an all-around beast. It is good for getting over obstacles and is great on the ice things in the water on maps like winter and raging winter.
 
 The vehicle is not great until you get it near the max level. Before that, it is way too unstable. However, once you get it there it is very good.
@@ -392,6 +393,7 @@ The biggest drawback is it has bad roof protection. Maps like Mines and Rustbuck
 Must haves |  Useful |  Rarely used
 -- | -- | --
 Afterburner • Coin Boost • Fume boost • Magnet • Thrusters • Wheelie Boost • Wings | Fuel Boost • Heavyweight • Jump Shocks • Overcharged Turbo • Rollcage • Start Boost | Air Control • Flip Boost • Landing Boost
+{: style="text-align: center;"}
 
 gutterbutter contact :
 Discord: gutterbutter#0267
@@ -407,6 +409,7 @@ The vehicle comes with 1 paint and 2 wheels default and has a total of 18 paints
 Must haves |  Useful |  Rarely used
 -- | -- | --
 Afterburners • Coin Boost • Fume Boost • Landing Boost • Overcharged Turbo • Wings • Winter Tires | Fuel Boost • Magnet • Start Boost • Wheelie Boost |  Air Control • Flip Boost • Thrusters
+{: style="text-align: center;"}
 
 Note!
 
@@ -448,8 +451,8 @@ Discord: Cole\|ST#1883
 [Spotify]( https://open.spotify.com/show/36Rx2ewo4aiLraYRYxvrv4?si=8K33Zws5SvqyHIZfNhstCQ)
 
 ### Different Driving Techniques
-This section of the Game Manual will try to explain different driving techniques, how you can learn them and master them more easily.
-In progress ………
+This section of the Game Manual will try to explain different driving techniques, how you can learn them and master them more easily.  
+In progress ………  
 It will be included in the upcoming edition of the Game Manual
 #### Daily Task – Neck Flip Task
 The newest update for Hill Climb Racing 2 V1.43.0 introduces us to all-new daily tasks for bonus rewards and additional progress on the trophy road. An everyday player is given three tasks to complete and the most difficult task to complete is Neck Flip.
@@ -458,39 +461,39 @@ This link will show you how to do Neck Flip with all vehicles in the game:
 [![](http://img.youtube.com/vi/ANe7YnW1T9w/0.jpg)](http://www.youtube.com/watch?v=ANe7YnW1T9w)
 
 ## Chapter 2 - In-game resources
-In Chapter 2, we will explain what the game resources are and try to describe how to manage the in-game resources. How to earn them, collect them, and how to use them most effectively in building your HCR2 Account. We excluded VIP Subscription in our explanations and base our data only from gathering resources within the game. (In this first edition it is based on earning, collecting, and using Gems. The Gems are the most valuable commodity in the game.)
-NOTE 2×!
-Aero’s Monitoring Spreadsheet
-A very good tool for developing your HCR2 Account aka Bill Newton is Aero’s HCR2 Monitoring Spreadsheet. By using this tool, you can easily follow your in-game progress, make plans on how to spend Coins on vehicle features and tuning parts, and etc.
-For downloading this spreadsheet use this Reddit link!!
-https://www.reddit.com/r/HillClimbRacing/comments/jqr5nk/new_spreadsheet_v1401_with_rotator/
+In Chapter 2, we will explain what the game resources are and try to describe how to manage the in-game resources. How to earn them, collect them, and how to use them most effectively in building your HCR2 Account. We excluded VIP Subscription in our explanations and base our data only from gathering resources within the game. (In this first edition it is based on earning, collecting, and using Gems. The Gems are the most valuable commodity in the game.)  
+NOTE 2×!  
+Aero’s Monitoring Spreadsheet  
+A very good tool for developing your HCR2 Account aka Bill Newton is Aero’s HCR2 Monitoring Spreadsheet. By using this tool, you can easily follow your in-game progress, make plans on how to spend Coins on vehicle features and tuning parts, and etc.  
+For downloading this spreadsheet use this Reddit [link!!](
+https://www.reddit.com/r/HillClimbRacing/comments/jqr5nk/new_spreadsheet_v1401_with_rotator/)
 ### Game Resources
-![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/6/6d/Coin.png)
+![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/6/6d/Coin.png)  
 **Coins** - Coins are the primary currency in Hill Climb Racing 2. They are used for purchasing vehicles, vehicle upgrades, upgrading tuning parts, and unlocking new adventure maps (if you don't want to reach a certain adventure rank to open an adventure map).
 
-![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/a/aa/Gem.png)
+![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/a/aa/Gem.png)  
 **Gems** - Gems are the premium, secondary currency in Hill Climb Racing 2. Gems can be purchased with real money or earned in-game by opening a 
 Free 6 and 8 Hours Chest, by winning Daily Chest (10 Cups win tracks per day), by reaching weekly Team Chest level 23 for a maximum amount of them, by Team Event winning at least 2600 points, by opening Daily Rewards or by driving Adventure Task Chests. You can trade gems for coins in the store as well as use gems to unlock chests faster thereby speeding up the scrapping process. Gems can also be used to purchase event and special adventure maps tickets and challenge retries.
 
 Note: you can create a team for 100 gems or change the team name for 50 gems. (Our advice is: Don’t spend Gems on this if you do not have VIP Subscription)
 
-![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/b/b8/Scrap.png)
+![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/b/b8/Scrap.png)  
 **Scrap** - Scrap is used exclusively to craft an upgrade for tuning parts. To craft a tuning part upgrade, you must already have at least one of that part in your inventory and unlock the vehicle that you want to upgrade the tuning parts. Scrap is created by taking unwanted tuning parts and converting them into scrap, which you can then spend on upgrading the parts you do want. Scrap can also be gained from Team and Public Event rewards.
 
-![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/7/76/Special_ticket.png)
+![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/7/76/Special_ticket.png)  
 **Special Ticket** - Special tickets can be used as an alternative entry method where a ticket is required. These are the only alternatives that allow you an entry to Team Events when your "Team Tickets" are all used up (assuming the ad-entry is used) and can be match deciding. You can also use them to retry 1 track in a single run, but keep in mind that the cost of a retry is doubled every time you use it, so the first retry costs 1 ticket, then 2, 4, 8...
 
 In Public Events you can use 1 special ticket to race once (not refill). The only way to obtain these tickets regularly is by having a team score of 1400+ or sometimes 300+ in a Team Event match. There are also some Public Events have them as rewards.
 
-![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/8/82/Team_ticket.png)
+![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/8/82/Team_ticket.png)  
 **Team Ticket** - Team Tickets can only be used to race in Team Events. Upon starting your match, you will have 2/2 team tickets. These are refilled once every 4 hours, starting the minute of your match. Your refill will delay if you don't use them in that time window.
 
 The only way to obtain these tickets is by waiting for the timer to run down.
 
-![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/1/1e/Ticket.png)
+![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/1/1e/Ticket.png)  
 **Event Ticket** - Event tickets are used to purchase an attempt in the Public Events. You are given 4 tickets (trials) per day and 1 free ticket (trial) for watching ads video. Additional tickets can be bought with gems at a cost of 4 tickets for 20 gems. In the Soccer Run Event, you only get 2 tickets, both after waiting for the tickets or purchasing them with 20 gems.
 
-![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/0/0e/Moon_ticket.png)
+![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/0/0e/Moon_ticket.png)  
 **Special Adventure Maps Ticket** - One ticket gives you one chance to drive as far as you can in Special adventure map. You start out with 4 tickets. These tickets get refilled every 24 hours, after they are all spent. They can also be manually refilled by spending 50 gems for 4 tickets. You can use a Special Ticket for additional runs or watch an ad, when available.
 
 ### How to collect effectively and use Resources
@@ -514,7 +517,7 @@ The answer to all these questions is as follows.
 
 There are 9 ways to earn Gems. 6 different types of Chest in the game give you Gems, you can earn Gems by completing the monthly Trophy Road, by opening Daily Rewards and in Team Event by winning a minimum of 2,600 Points.
 
-SOURCE FOR THE GEMS | DESCRIPTION
+SOURCE | DESCRIPTION
 -- | --
 Monthly Trophy Road | You can collect 150 Gems per month by driving Trophy Road.
 6h Free Chest  | 6h Free Chest gives a minimum of 1 Gem every 6 hours by watching an add every 6 hours.
@@ -545,6 +548,7 @@ With a simple mathematical equation in a month, you can collect 1320 Gems
 By playing every day the Adventure Task Chest can give you more than 1320 Gems. After you open the three Adventure Task Chest, you will need to wait 12 hours to be able to do it again.
 
 Adventure Task Chest Information: 
+
 COINS | GEMS | ITEMS
 -- | -- | --
 1000 coins for starting the adventure + 400 for every level reached. So a Level 1 chest will contain 1400 coins, Level 2: 1800 and so on... This has no maximum level cap. | 1 gem for starting + 1 gem every 4 Levels reached. So a Level 1 chest will contain 1 gem, Level 4: 2, Level 8: 3 and so on... This has a maximum level cap of 28, meaning you can get a maximum of 8 gems in every task. | Levels 1-6: Minimum of 18 common and 2 rare parts. Levels 7-12: Minimum of 29 common and 2 rare parts. Levels 13+: Minimum of 45 common and 6 rare parts.
@@ -586,8 +590,8 @@ DATA SOURCE | GEMS SPENT | COINS COLLECTED | COMMON PARTS | RARE PARTS | EPIC PA
 Vereshchak | 7800 | 168500 | 740 | 98 | 60 | 12 | 0 
 io&oi | 3000 | 154000 | 479 | 78 | 9 | 3 | 10
 
-\* Vereshachak’s and io&oi’s data have been taken from their youtube channels
-	Vereshchak: Hill Climb Racing 2 OPENING CHESTS Rare, EPIC, LEGENDARY (-7800 gems)
+\* Vereshachak’s and io&oi’s data have been taken from their youtube channels  
+	Vereshchak: Hill Climb Racing 2 OPENING CHESTS Rare, EPIC, LEGENDARY (-7800 gems)  
 	io&oi : OPENING 25 CHEST 120 EACH - HILL CLIMB RACING 2
 
 Second table shows how many Gems you need to spend if you open every chest in the Chest Sequences for Cups. The Sequences consists of 111 Chest from start of the Sequence with Champion Chest to the start of the next Sequence with Champion Chest
@@ -598,7 +602,7 @@ Legolinjo # 1 | 1884 | 567250 | 3204 | 434 | 57 | 9 | 0
 Master HCR | 1884 | 570500 | 3237 | 431 | 42 | 12 | 1
 Legolinjo # 2 | 1041 | 559000 | 3266 | 452 | 66 | 6 | 0
 
-\* Master HCR data has been taken from his youtube channel, and data I have collected by opening all Chest Cups and second data is while opening only Common Chests and during earlier opening of the other Chests in one Sequence rotation.
+\* Master HCR data has been taken from his youtube channel, and data I have collected by opening all Chest Cups and second data is while opening only Common Chests and during earlier opening of the other Chests in one Sequence rotation.  
 	Master HCR: HCR2 Hill Climb Racing 2 | HOW much MONEY and TUNING PARTS I Won | OPENING ALL CHESTS IN CUPS
 
 **Gems spending recap**
@@ -611,21 +615,21 @@ In upcoming Manual editions, we will make additional explanations about Gems spe
 
 **How to collect and use Coins**
 
-In progress ………
+In progress ………  
 It will be included in the upcoming edition of the Game Manual
 
 **How to collect and use Scrap**
 
-In progress ………
+In progress ………  
 It will be included in the upcoming edition of the Game Manual
 
 **How to collect and use Special Ticket**
 
-In progress ………
+In progress ………  
 It will be included in the upcoming edition of the Game Manual
 
 ## Chapter 3 - Maps and Cups
-In progress ………
+In progress ………  
 It will be included in the upcoming edition of the Game Manual
 
 ## Chapter 4 - Public Event
@@ -647,7 +651,7 @@ A smart way for spending Gems is in Public Events because you can spend fewer Ge
 
 For this presentation, you will need to fulfill some conditions. In the end, the exact amount of Gems spent in a Public Event is dependent on how many Points player wins in every Public Event rides (the presentation will have different scenarios so that you can easily manage your Gems).
 
-One Public Event lasts for 6 days (from Wednesday to Monday) and for maximum attempts in the Public Event, the player needs to enter Public Event immediately at the beginning of the Public Event. In that way, a player has a maximum of 30* attempts in a Public Event without spending any Gems.
+One Public Event lasts for 6 days (from Wednesday to Monday) and for maximum attempts in the Public Event, the player needs to enter Public Event immediately at the beginning of the Public Event. In that way, a player has a maximum of 30* attempts in a Public Event without spending any Gems.  
 \* (4 free Tickets + 1 additional for ads watching per day) × 6 days = 30 overall attempts
 
 **Example 1 (Legendary Chest 400 Points):**
@@ -655,9 +659,9 @@ One Public Event lasts for 6 days (from Wednesday to Monday) and for maximum att
 If a player can win 8 Points per Ticket, he will need to spend 100 Gems for reaching 400 Points in the Public Event and win the Legendary Chest.
 
 6 days × 5 free Tickets × 8 points per Ticket = 240 Public Event Points
-20 Gems = 4 additional Tickets
+20 Gems = 4 additional Tickets  
 4 additional Tickets × 8 points per Ticket = 32 additional Event Points
-100 Gems = 20 additional Tickets
+100 Gems = 20 additional Tickets  
 20 additional Tickets × 8 points per Ticket = 160 additional Event Points
 
 Overall; 240 +160 = 400 Points = Legendary Chest
@@ -667,9 +671,9 @@ Overall; 240 +160 = 400 Points = Legendary Chest
 If a player can win 5 Points per Ticket, he will need to spend 260 Gems for reaching 400 Points in the Public Event and win the Legendary Chest.
 
 6 days × 5 free Tickets × 5 points per Ticket = 150 Public Event Points
-20 Gems = 4 additional Tickets
+20 Gems = 4 additional Tickets  
 4 additional Tickets × 5 points per Ticket = 20 additional Event Points
-260 Gems = 52 additional Tickets
+260 Gems = 52 additional Tickets  
 52 additional Tickets × 5 points per Ticket = 260 additional Event Points
 
 Overall; 150 +260 = 410 Points = Legendary Chest
@@ -679,9 +683,9 @@ Overall; 150 +260 = 410 Points = Legendary Chest
 If a player can win 8 Points per Ticket, he will need to spend 180 Gems for reaching 500 Points in the Public Event and win the Legendary Chest.
 
 6 days × 5 free Tickets × 8 points per Ticket = 240 Public Event Points
-20 Gems = 4 additional Tickets
+20 Gems = 4 additional Tickets  
 4 additional Tickets × 8 points per Ticket = 32 additional Event Points
-180 Gems = 36 additional Tickets
+180 Gems = 36 additional Tickets  
 36 additional Tickets × 8 points per Ticket = 288 additional Event Points
 
 Overall; 240 +288 = 528 Points = Legendary Chest
@@ -691,9 +695,9 @@ Overall; 240 +288 = 528 Points = Legendary Chest
 If a player can win 5 Points per Ticket, he will need to spend 360 Gems for reaching 500 Points in the Public Event and win the Legendary Chest.
 
 6 days × 5 free Tickets × 5 points per Ticket = 150 Public Event Points
-20 Gems = 4 additional Tickets
+20 Gems = 4 additional Tickets  
 4 additional Tickets × 5 points per Ticket = 20 additional Event Points
-360 Gems = 72 additional Tickets
+360 Gems = 72 additional Tickets  
 72 additional Tickets × 5 points per Ticket = 360 additional Event Points
 
 Overall; 150 +360 = 510 Points = Legendary Chest
@@ -721,25 +725,26 @@ POINTS | REWARDS
 In addition, the Winning Team’s Prize is a Rare Chest
 
 **Types of Team Event tracks:**
-Backwater Bog
-Beach
-City
-Countryside
-Desert Valley
-Forest
-Mines
-Moon
-Mountain
-Patchwork Plant
-Racer Glacier
-Rustbucket Reef
-Winter
+Backwater Bog  
+Beach  
+City  
+Countryside  
+Desert Valley  
+Forest  
+Mines  
+Moon  
+Mountain  
+Patchwork Plant  
+Racer Glacier  
+Rustbucket Reef  
+Winter  
 
 ### Analysis of Backwater Bog Type of Tracks
 **Backwater Bog Multi Jump/Distance** = 1100 m / 10.000 Points
 (the appearance of this Backwater Bog track was in No Relation Team Event, 22-JAN-21)
 
 The best vehicle to ride this track: Hill Climber
+
 Vehicle features:  | Parts:
 -- | --
 ENGINE 20 / 20 MAX  | WINGS Level 15 Max
@@ -747,20 +752,21 @@ GRIP 20 / 20 MAX  | JUMP SHOCKS Level 10 Max
 SUSPENSION 20(18) / 20 MAX  | LANDING BOOST Level 7 Max
 AWD 20 / 20 MAX | 
 
-How and where to practice this track?
+How and where to practice this track?  
 This track can be practiced on a Backwater Bog Adventure track!
 
-Note!
+Note!  
 When practicing this track try to avoid getting Fuel.
 
 **Track Analysis:**
 In progress ………
 
 ### Analysis of Beach Type of Tracks
-**Beach Wheelie** = 700 m / 10.000 Points
+**Beach Wheelie** = 700 m / 10.000 Points  
 (the appearance of this Beach track was in Drift Hard Team Event, 08-JAN-21)
 
-The best vehicle to ride this track: Dune Buggy
+The best vehicle to ride this track: Dune Buggy  
+
 Vehicle features:  | Parts:
 -- | --
 ENGINE 20 / 20 MAX  | MAGNET Level 15 Max
@@ -770,7 +776,7 @@ ROLLCAGE 20 / 20 MAX |
 
 How and where to practice this track?
 
-This track is only accessed in Team Event! You cannot practice this track outside Team Event!
+This track is only accessed in Team Event! You cannot practice this track outside Team Event!  
 Similar tracks for practice: Beach Adventure, all Beach type Cups, and Uphill Cup
 
 **Track Analysis:**
@@ -811,7 +817,7 @@ AWD 20 / 20 MAX |
 
 How and where to practice this track?
 
-This track is only accessed in Team Event! You cannot practice this track outside Team Event!
+This track is only accessed in Team Event! You cannot practice this track outside Team Event!  
 Similar tracks for practice: Mines Adventure, all Mines type Cups
 
 **Note!**: Practice the first Jumping driving technique in Mines tracks to get a feeling of how to control Hill Climber in a closed space. Mine Shaft Cup - A 
@@ -824,9 +830,8 @@ When you start this track a simple trick can be very useful. Wait a few seconds 
 
 Use extended Jump Shocks to overcome the first curve on the track.
 
-This link will show you how this track looks like in one big picture made of many slides
-https://cdn.discordapp.com/attachments/798058427598766130/800442112519831552/Vokope_-_Multi_Jump_-_Seasons_Tears.jpg
-![https://cdn.discordapp.com/attachments/798058427598766130/800442112519831552/Vokope_-_Multi_Jump_-_Seasons_Tears.jpg](https://cdn.discordapp.com/attachments/798058427598766130/800442112519831552/Vokope_-_Multi_Jump_-_Seasons_Tears.jpg)
+[This link will show you how this track looks like in one big picture made of many slides](https://cdn.discordapp.com/attachments/798058427598766130/800442112519831552/Vokope_-_Multi_Jump_-_Seasons_Tears.jpg)  
+![https://cdn.discordapp.com/attachments/798058427598766130/800442112519831552/Vokope_-_Multi_Jump_-_Seasons_Tears.jpg](https://cdn.discordapp.com/attachments/798058427598766130/800442112519831552/Vokope_-_Multi_Jump_-_Seasons_Tears.jpg)  
 \*Source – Vokope youtube video (Hill Climb Racing 2 - 37185 + 4 Free Tickets (Seasons Tears))
 
 ## Chapter 6 - Game Guidelines
@@ -854,19 +859,19 @@ Every vehicle you buy, Fingersoft gives you free vehicle feature level upgrades 
 -  Drive every Cups with Magnet part to collect as many Coins you can + every time when you can make a backflip or front flip or any kind of stunts to earn additional Coins.
 - Install Discord program. Go to Settings and left from Facebook icon you will see Discord icon, tap on it and install Discord on your smartphone, and you can download and install Discord App on your computer also. HCR2 has a vibrant Discord community that can help you and your game progress.
 - As soon as you reach the rank of Gold I the option to join a team becomes available, consider joining one of many HCR2 teams. Smart thing is to choose one of Top team who have low ranking teams, for beginners. You can easily search in official Finger Soft HCR2 Discord server in the #team-seeking-player ads from teams that need active players.
-Also, try and finish the monthly Trophy Road as soon as possible. By completing this in a very short time you can receive:
-	150 Gems 
-	86.000 Coins 
-	254 Common Parts 
-	78 Rare Parts 
-	43 Epic Parts 
-	13 Legendary Parts 
-	5 Skins
+Also, try and finish the monthly Trophy Road as soon as possible. By completing this in a very short time you can receive:  
+	150 Gems   
+	86.000 Coins   
+	254 Common Parts   
+	78 Rare Parts   
+	43 Epic Parts   
+	13 Legendary Parts   
+	5 Skins  
 - When you in a team, ask for help for example which vehicles to buy or which parts need to be upgraded first. Almost all teams are Team Event based teams so listen to what experienced players have to say and learn from their mistakes.
 - When you drive Adventure maps, drive a Mountain map because that map has the most Coins per meter + you can make stunts for additional coins.
-- Whilst in a team try and drive as many kms for Team Chest. Being a member of a team who can reach minimum Team Chest level 23
-(With Team Chest Level 23 8,360 km you win: 112,000 Coins; 50 Gems; 113 Common; 12 Epic and 3 Legendary Parts)
-Don't expect to be accepted into a team if you have a low GP (beginner) and you are asking for Team Chest over Level 35+ be realistic and work your way up
+- Whilst in a team try and drive as many kms for Team Chest. Being a member of a team who can reach minimum Team Chest level 23  
+(With Team Chest Level 23 8,360 km you win: 112,000 Coins; 50 Gems; 113 Common; 12 Epic and 3 Legendary Parts)  
+Don't expect to be accepted into a team if you have a low GP (beginner) and you are asking for Team Chest over Level 35+ be realistic and work your way up  
 - Being part of a winning team in Team Events with a minimum of 2,600 Points for 30 Gems rewards. If you are part of a team with not enough players who can reach a minimum of 2,600 Points in a Team Event, find a new team with more members.
 - Do not scrap parts in the beginning. Collect them. If you need Scraps to upgrade a particular part, seek advice from experienced teammates who will advise which Parts eventually can be scrapped safely.
 - Do not spend hard-earned Gems to buy 5 x Epic (250 Gems) or 1 x Legendary (500 Gems) parts in the in-game Shop. It is not worth spending that number of Gems. You are better off spending Gems to open Common Chest (12 Gems) or in Public Event for additional 4 attempts as you will receive more rewards.
@@ -892,7 +897,7 @@ This list can help you track all tasks in the game for the better and more effic
 - [ ] 3 Adventure Task Chests – drive it
 
 **Every 24 hours**
-- [ ] Collect Daily Reward
+- [ ] Collect Daily Reward  
 [ ]   Use Double Coins in Adventure Maps – collect as many as possible Coins
 - [ ] 3 Daily Tasks – complete it
 - [ ]   Win 10 Cup racers – drive it, win 10 cup races
@@ -909,10 +914,10 @@ This list can help you track all tasks in the game for the better and more effic
 - [ ] Have a Cup Chest timing down
 - [ ] Scrap excess parts
 
-##Chapter 7 - Devices and Support
+## Chapter 7 - Devices and Support
 In Chapter 7, we will try to help HCR2 players with decisions on what devices are better to play HCR2, on the smartphone, or on the tablet.
 
-Also, we will try to help with some technical issues within a game. All pieces of information described in this chapter are based on player's experience and are not official Finger Soft interpretation. For official help regarding problems within a game contact support@fingersoft.com.
+Also, we will try to help with some technical issues within a game. All pieces of information described in this chapter are based on player's experience and are not official Finger Soft interpretation. For official help regarding problems within a game contact support@fingersoft.com.  
 In every new edition of the HCR2 Game Manual with a help of HCR2 players, we hope that we will explain most of the technical issues within the game.  Please contact us if you have problems with a game or have experience with solving some issues in the game.
 
 ### How to transfer Account from old device to new device 
@@ -963,12 +968,13 @@ HCR2 players (sort by alphabet)
 - The Doc
 
 Youtube channels (sort by alphabet)
-- io&oi - https://www.youtube.com/channel/UCgTGClVoHLQ5l01T5UzYWDg
-- Master HCR - https://www.youtube.com/channel/UCY0QEkKinR2XqKM8n2RKaSw
-- Vereshchak - https://www.youtube.com/channel/UCyL-QGEkA1r7R7U5rN_Yonw
-- VOKOPE - https://www.youtube.com/channel/UC16xML3oyIZDeF3g8nnV6MA
-
+- [io&oi](https://www.youtube.com/channel/UCgTGClVoHLQ5l01T5UzYWDg)
+- [Master HCR](https://www.youtube.com/channel/UCY0QEkKinR2XqKM8n2RKaSw)
+- [Vereshchak](https://www.youtube.com/channel/UCyL-QGEkA1r7R7U5rN_Yonw)
+- [VOKOPE](https://www.youtube.com/channel/UC16xML3oyIZDeF3g8nnV6MA)
+- 
 ***
+
 
 ->[wiki](http://wiki.hcr2.info) \| [faq](http://faq.hcr2.info) \| [hcr2.info](hcr2.info)<-
 {: style="text-align: center;"}
