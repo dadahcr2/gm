@@ -950,6 +950,7 @@ This list can help you track all tasks in the game for the better and more effic
 In Chapter 7, we will try to help HCR2 players with decisions on what devices are better to play HCR2, on the smartphone, or on the tablet.
 
 Also, we will try to help with some technical issues within a game. All pieces of information described in this chapter are based on player's experience and are not official Finger Soft interpretation. For official help regarding problems within a game contact support@fingersoft.com.  
+
 In every new edition of the HCR2 Game Manual with a help of HCR2 players, we hope that we will explain most of the technical issues within the game.  Please contact us if you have problems with a game or have experience with solving some issues in the game.
 
 ### How to transfer Account from old device to new device 
@@ -984,8 +985,7 @@ Chapter 8 will contain a list of our sources for the Game Manual. Some informati
 
 ### Source list
 
-Hill Climb Racing 2 Official wiki: 
-https://hillclimbracing2.gamepedia.com/Hill_Climb_Racing_2_Wiki
+[Hill Climb Racing 2 Official wiki:](https://hillclimbracing2.gamepedia.com/Hill_Climb_Racing_2_Wiki)
 
 HCR2 players (sort by alphabet)
 - Aero
@@ -1004,7 +1004,7 @@ Youtube channels (sort by alphabet)
 - [Master HCR](https://www.youtube.com/channel/UCY0QEkKinR2XqKM8n2RKaSw)
 - [Vereshchak](https://www.youtube.com/channel/UCyL-QGEkA1r7R7U5rN_Yonw)
 - [VOKOPE](https://www.youtube.com/channel/UC16xML3oyIZDeF3g8nnV6MA)
-- 
+
 ***
 
 
