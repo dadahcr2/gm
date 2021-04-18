@@ -58,7 +58,7 @@ Rank Required  | Vehicle Name  | Cost  | Appearance
 Bronze I| Hill Climber | Free | ![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/f/f3/Hill_Climber.png)
 Bronze II | Scooter | 5,000 Coins | ![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/a/ac/Scooter.png)
 Bronze III | Bus | 7,000 Coins | ![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/4/43/Bus.png)
-{: style="text-align: center;"}Silver I | Hill Climber Mk. 2 | 9,000 Coins | ![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/c/cd/Superjeep.png)
+Silver I | Hill Climber Mk. 2 | 9,000 Coins | ![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/c/cd/Superjeep.png)
 Silver I | Tractor | 15,000 Coins | ![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/7/7a/Tractor.png)
 Silver II | Motocross | 20,000 Coins | ![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/f/fa/Motocross.png)
 Silver III | Dune Buggy | 30,000 Coins  | ![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/4/48/Buggy.png)
@@ -80,6 +80,7 @@ Moon Event Reward | Moonlander | 200 Points in Moon Event | ![](https://static.w
 Special Vehicle used for Christmas Events! | Sled | Free | ![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/f/f8/Sled.png)
 Special Vehicle used for Christmas Events! | Doughnut | Free | ![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/3/36/Doughnut.png)
 Special Vehicle used for Christmas Events! | Snowboard | Free | ![](https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/4/41/Snowboard.png)
+{: style="text-align: center;"}
 
 ### Vehicle Features, Tuning Parts, and Fuel Consumption
 Every vehicle has 4 separate features that can be upgraded to increase its performance. These features vary from vehicle to vehicle. Each feature can be upgraded from level 1, up to level 20, with each upgrade costing progressively more coins.
@@ -146,7 +147,7 @@ For downloading this spreadsheet use this Reddit link!!
 TUNING PART  |  RARITY | ICON  | DESCRIPTION  | MOST USEFUL TASKS
 -- | -- | -- | -- | --
 Air Control  | Common part | ![](https://media.discordapp.net/attachments/813824578077196338/813826404714151946/Aircontrol.png) | Turn faster in the air | It helps to make the vehicle control more easily midair and you can use it in a team or public events for flips.
-Heavyweight | Common part  | ![](https://media.discordaspp.net/attachments/813824578077196338/813826772126662687/Weight.png) | Add weight to the front of your vehicle to be able to destroy obstacles easier. | This part can be used to help keep the vehicle rooted to the ground or add extra ballast if you need to destroy items.
+Heavyweight | Common part  | ![](https://cdn.discordapp.com/attachments/813824578077196338/813826772126662687/Weight.png) | Add weight to the front of your vehicle to be able to destroy obstacles easier. | This part can be used to help keep the vehicle rooted to the ground or add extra ballast if you need to destroy items.
 Magnet  | Common part  | ![](https://media.discordapp.net/attachments/813824578077196338/813826557097410631/Magnet_Part.png) | Collect fuel and coins with a wider radius. |  It helps to collect Coins and Fuel in a Bigger Radius.
 Roll cage | Common part | ![](https://media.discordapp.net/attachments/813824578077196338/813826661913067612/Roll-cage.png) | Protect the driver from collisions. | On Cups and Adventure maps with many roofs and prevent.
 Wings | Common part | ![](https://media.discordapp.net/attachments/813824578077196338/813826807933567046/Wing.png) |  Glide through the air & increase your jump length. | Long Jump Event or Long Jumps in Adventure maps.
